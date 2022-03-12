@@ -1,0 +1,54 @@
+body {
+  width: 400px;
+  margin: auto;
+  height: 100%;
+}
+.Headercontainer {
+  background-color: rgb(137, 221, 117);
+  color: white;
+  align-items: center;
+}
+.bodycontainer input,
+textarea {
+  background-color: rgb(230, 236, 228);
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
+.bodycontainer {
+  background-color: rgb(224, 228, 227);
+}
+
+/* .name { 
+  align-items: center;
+  width: 400px;
+  margin: auto;
+  height: 100%;
+}
+.email {
+  align-items: center;
+  width: 400px;
+  margin: auto;
+  height: 100%;
+}
+.message {
+  align-items: center;
+  width: 400px;
+  margin: auto;
+  height: 100%;
+}
+.subject {
+  align-items: center;
+  width: 400px;
+  margin: auto;
+  height: 100%;
+}
+.button {
+  align-items: center;
+  margin: auto;
+}*/
+.button {
+  background-color: rgb(137, 221, 117);
+  border-radius: 5px;
+  padding: 5px;
+}
